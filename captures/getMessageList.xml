@@ -1,0 +1,42 @@
+{
+    "code":"S_OK",
+    "summary":"",
+    "var":{
+        "count":4,
+    	"table":[
+					{
+						"seqno": 2956,
+						"type": 1,
+						"message": "xxx取消了活动【消息盒子AA】",
+						"status": 0,
+						"createTime": "2013-07-30 16:31:14"
+					}
+					,
+					{
+						"seqno": 2955,
+						"type": 1,
+						"message": "xxx更新了活动【消息盒子AA】",
+						"status": 0,
+						"createTime": "2013-07-30 16:30:49"
+					}
+					,
+					{
+						"seqno": 728,
+						"type": 1,
+						"message": "xxx邀请您参与活动【消息盒子】",
+						"status": 1,
+						"createTime": "2013-07-23 16:31:04"
+					}
+					,
+					{
+						"seqno": 296,
+						"type": 1,
+						"message": "xxx邀请您参与活动【是事实上是】",
+						"status": 1,
+						"createTime": "2013-07-19 05:39:14"
+					}
+					
+    	]
+    }
+}
+
